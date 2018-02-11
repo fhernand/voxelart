@@ -4,6 +4,8 @@ A collection of voxel art projects
 Magicavoxel projects (https://ephtracy.github.io/):
 * Construction Site:
   * Created and rendered in Magicavoxel v0.98
+* DSKY:
+  * Created and rendered in Magicavoxel v0.98
 * Ice Skating
   * Created and rendered in Magicavoxel v0.98
 * Saturn V
