@@ -13,5 +13,7 @@ Magicavoxel projects (https://ephtracy.github.io/):
   * Tower model: https://grabcad.com/library/309776
   * Meshes prepared in Blender and converted to .vox with http://www.drububu.com/miscellaneous/voxelizer/index.html?out=vox
   * Other models, composition and rendering in Magicavoxel v0.99
+* Stadium
+  * Created and rendered in Magicavoxel v0.99
 * The Nap
   * Created and rendered in Magicavoxel v0.98
